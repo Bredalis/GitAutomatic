@@ -1,5 +1,5 @@
 
-# Automatizador de Git
+# Automatizador de sus comandos
 
 import subprocess
 
